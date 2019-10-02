@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.folk_login">
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/folk_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".HomeActivity"></activity>
+        <activity android:name=".Splash_screen" />
+        <activity android:name=".Gold_badge" />
+        <activity android:name=".Silver_badge" />
+        <activity android:name=".CalendarActivity" />
+        <activity android:name=".Bronze_badge" />
+        <activity android:name=".OTP_folk_member" />
+        <activity android:name=".Set_Password" />
+        <activity android:name=".OTP" />
+        <activity android:name=".Guest_signup" />
+        <activity android:name=".Folk_signup" />
+        <activity android:name=".Signup_method" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

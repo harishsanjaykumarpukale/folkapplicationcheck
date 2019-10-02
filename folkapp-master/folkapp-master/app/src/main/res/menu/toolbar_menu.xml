@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Profile"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/accomodation"
+        android:icon="@drawable/ic_accomodation_black_24dp"
+        android:title="Accomodation"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/payment"
+        android:icon="@drawable/ic_payment_black_24dp"
+        android:title="Payment"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/attendance"
+        android:icon="@drawable/ic_attendance_black_24dp"
+        android:title="Attendance"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"/>
+</menu>

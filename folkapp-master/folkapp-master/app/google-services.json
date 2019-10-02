@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "527721598969",
+    "firebase_url": "https://folk-app-manish-3a823.firebaseio.com",
+    "project_id": "folk-app-manish-3a823",
+    "storage_bucket": "folk-app-manish-3a823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527721598969:android:f824b4019285591b",
+        "android_client_info": {
+          "package_name": "com.example.folk_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527721598969-f7igk4fqlq5vo5k28q7ds2pc1ij2qohh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.folk_login",
+            "certificate_hash": "a5a864c21b567a5476bab04def98ea9393d7d8a7"
+          }
+        },
+        {
+          "client_id": "527721598969-rmcu75ecdcoi099hs050c6nd2n6rsj6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYHyEA9ynxWzEQI6rS3DSEfRuFVys6OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527721598969-rmcu75ecdcoi099hs050c6nd2n6rsj6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527721598969:android:f01bcba98747fab1",
+        "android_client_info": {
+          "package_name": "com.example.payments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527721598969-rmcu75ecdcoi099hs050c6nd2n6rsj6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYHyEA9ynxWzEQI6rS3DSEfRuFVys6OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527721598969-rmcu75ecdcoi099hs050c6nd2n6rsj6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
